@@ -1,0 +1,71 @@
+{
+	"prefix":
+	[
+		"me",
+		"meng",
+		"pe",
+		"peng",
+		"men",
+		"pen",
+		"mem",
+		"pem",
+		"ber",
+		"be",
+		"per",
+		"te",
+		"ter",
+		"ke",
+		"di",
+		"se"
+	],
+	"kondisi":{
+		"me":{
+			"kondisi":[]
+		},
+		"meng":{
+			"kondisi":[ "a", "e", "g", "h","i", "u", "o", "k" ]
+		},
+		"pe":{
+			"kondisi":["r"]
+		},
+		"peng":{
+			"kondisi":[ "a", "e", "g", "h","i", "u", "o", "k" ]
+		},
+		"men":{
+			"kondisi":[ "c", "d", "j" ]
+		},
+		"pen":{
+			"kondisi":[ "c", "d", "j" ]
+		},
+		"mem":{
+			"kondisi":[]
+		},
+		"pem":{
+			"kondisi":[]
+		},
+		"ber":{
+			"kondisi":[]
+		},
+		"be":{
+			"kondisi":["r"]
+		},
+		"per":{
+			"kondisi":[]
+		},
+		"te":{
+			"kondisi":[]
+		},
+		"ter":{
+			"kondisi":[]
+		},
+		"ke":{
+			"kondisi":[]
+		},
+		"di":{
+			"kondisi":[]
+		},
+		"se":{
+			"kondisi":[]
+		}
+	}
+}
